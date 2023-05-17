@@ -29,7 +29,7 @@ in this project we built a 4 bit Ripple adder.
 
 - ### HW6
 
-in this project we built 4bit a full  Ripple adder/subtractor, 4 bit carry save adder, and 4 bit carry lookahead adder.
+in this project we built a 4bit full  Ripple adder/subtractor, 4 bit carry save adder, and 4 bit carry lookahead adder.
 
 - ### HW7
 
