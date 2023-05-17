@@ -25,11 +25,11 @@ in this project we built a Mealy/Moore sequence detector for "1110" string.
 
 - ### HW5
 
-in this project we built a 4 bit Ripple adder.
+in this project we built a 4-bit Ripple adder.
 
 - ### HW6
 
-in this project we built a 4bit full  Ripple adder/subtractor, 4 bit carry save adder, and 4 bit carry lookahead adder.
+in this project we built a 4-bit full  Ripple adder/subtractor, 4-bit carry save adder, and 4-bit carry lookahead adder.
 
 - ### HW7
 
@@ -37,15 +37,15 @@ in this project we built a simple 4*5 multiplayer, 4*5 array multiplayer, and on
 
 - ### HW8 
 
-in this project we built a 4 bit PISO shift register.
+in this project we built a 4-bit PISO shift register.
 
 - ### HW9 
 
-in this project we built a ROM and a RAM with 32 blocks, which ea=very blocks contains 8 bits.
+in this project we built a ROM and RAM with 32 blocks, which every blocks contains 8 bits.
 
 - ### HW10
 
-in this project we built a simple ALU contains a 4 bit adder, increamention unit, left shifting unit.
+in this project we built a simple ALU contains a 4-bit adder, increamention unit, left shifting unit.
 
 - ### HW11 
 
