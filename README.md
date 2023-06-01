@@ -41,7 +41,7 @@ in this project we built a 4-bit PISO shift register.
 
 - ### HW9 
 
-in this project we built a ROM and RAM with 32 blocks, which every blocks contains 8 bits.
+in this project we built a ROM and RAM with 32 blocks, which every block contains 8 bits.
 
 - ### HW10
 
